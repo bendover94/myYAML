@@ -1,0 +1,10 @@
+name: Lucas Smith
+age: 28
+address:
+  street: 123 Main St
+  city: Anytown
+  country: USA
+interests:
+  - Programming
+  - Eating
+  - Sleeping
